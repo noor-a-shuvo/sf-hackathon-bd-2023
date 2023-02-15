@@ -1,0 +1,1068 @@
+[
+  {
+    "id": "825bb2bb-7c09-47c8-a207-3960d671d2f4",
+    "title": "Software Engineer",
+    "company": "Musaphics",
+    "location": "Florida",
+    "jobdescription": "Sit cillum ea laboris amet adipisicing cillum ex quis aliqua tempor ex est. Est occaecat proident nisi reprehenderit aliquip irure cillum dolore magna sint tempor voluptate nostrud. Est Lorem eiusmod reprehenderit nostrud velit consectetur tempor sunt et veniam.",
+    "category": "Technology",
+    "vacancies": 1,
+    "qualifications": [
+      "Proficiency with Salesforce development tools such as the Salesforce CLI, Salesforce DX, and the Force.com IDE.",
+      "Experience with integrating Salesforce with other systems, such as ERP or marketing automation systems.",
+      "Strong problem-solving and analytical skills."
+    ],
+    "skillset": [
+      "css",
+      "MuleSoft",
+      "Visualforce"
+    ],
+    "salary": "118091 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "8048d50b-77f8-420e-8dc0-02eb6bd4d173",
+    "title": "Salesforce Developer",
+    "company": "Skinserve",
+    "location": "Guam",
+    "jobdescription": "Exercitation deserunt exercitation cillum ipsum laboris minim occaecat sit. Enim duis aute minim adipisicing. Ex sint deserunt duis et in proident dolor pariatur.",
+    "category": "Technology",
+    "vacancies": 5,
+    "qualifications": [
+      "Bachelor degree in computer science or a related field, or equivalent work experience.",
+      "Strong problem-solving and analytical skills."
+    ],
+    "skillset": [
+      "MuleSoft",
+      "Aura Component"
+    ],
+    "salary": "119522 per month",
+    "employment_status": "Full Time"
+  },
+  {
+    "id": "3c60934c-f6c4-4b50-91a7-76501bda0fcb",
+    "title": "Software Engineer",
+    "company": "Zilodyne",
+    "location": "Delaware",
+    "jobdescription": "Anim aute ut aliqua excepteur incididunt. Do Lorem duis veniam enim deserunt id. Qui magna anim proident elit irure excepteur aliqua reprehenderit mollit laboris nostrud tempor exercitation.",
+    "category": "Technology",
+    "vacancies": 4,
+    "qualifications": [
+      "Understanding of Salesforce security and sharing rules.",
+      "Knowledge of web development technologies such as HTML, CSS, JavaScript, and jQuery.",
+      "Excellent communication and teamwork skills."
+    ],
+    "skillset": [
+      "LWC",
+      "CDC",
+      "Aura Component",
+      "Apex"
+    ],
+    "salary": "121374 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "73a28a0c-ce10-43b9-82b1-b1306a85b535",
+    "title": "Salesforce Developer",
+    "company": "Imkan",
+    "location": "Arizona",
+    "jobdescription": "Est sunt est ad labore pariatur elit ut esse. Do exercitation minim eu aliqua do proident pariatur. Aliquip voluptate labore ex laboris exercitation pariatur.",
+    "category": "Technology",
+    "vacancies": 4,
+    "qualifications": [
+      "Understanding of Salesforce security and sharing rules.",
+      "Salesforce Developer certifications, such as Salesforce Certified Platform Developer I and II, can also be a plus.",
+      "Bachelor degree in computer science or a related field, or equivalent work experience."
+    ],
+    "skillset": [
+      "Experience Cloud",
+      "css",
+      "Sales Cloud",
+      "LWC"
+    ],
+    "salary": "112631 per month",
+    "employment_status": "Full Time"
+  },
+  {
+    "id": "f1965ce7-9d33-428f-b6fe-176918544a06",
+    "title": "Salesforce Developer",
+    "company": "Affluex",
+    "location": "Montana",
+    "jobdescription": "Est velit qui quis laboris sit. Deserunt adipisicing eu ea sint exercitation nisi occaecat. Laborum nulla voluptate ut ullamco laborum voluptate adipisicing ullamco excepteur duis velit.",
+    "category": "Technology",
+    "vacancies": 2,
+    "qualifications": [
+      "Ability to create and manage custom Salesforce applications and packages.",
+      "Understanding of Salesforce security and sharing rules."
+    ],
+    "skillset": [
+      "css",
+      "Visualforce",
+      "Pardot",
+      "Sales Cloud"
+    ],
+    "salary": "111464 per month",
+    "employment_status": "Part Time"
+  },
+  {
+    "id": "6ea9ce42-e175-4232-8a8a-24a3290b639b",
+    "title": "Developer",
+    "company": "Renovize",
+    "location": "Washington",
+    "jobdescription": "Voluptate ex deserunt laborum id officia qui ut consectetur magna. Aliqua incididunt incididunt ad irure aliquip. Ullamco esse reprehenderit nisi ut elit Lorem.",
+    "category": "Technology",
+    "vacancies": 1,
+    "qualifications": [
+      "Strong understanding of Salesforce architecture and design patterns.",
+      "Salesforce Developer certifications, such as Salesforce Certified Platform Developer I and II, can also be a plus.",
+      "Experience with integrating Salesforce with other systems, such as ERP or marketing automation systems."
+    ],
+    "skillset": [
+      "Pardot",
+      "Javascript",
+      "Sales Cloud"
+    ],
+    "salary": "112940 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "d9bcfe86-8f46-487f-b303-370a1a70f32b",
+    "title": "LWC Developer",
+    "company": "Cedward",
+    "location": "Michigan",
+    "jobdescription": "In veniam duis eu pariatur enim esse et velit nisi ex qui magna exercitation. Aliquip consequat minim elit nulla laborum cillum sunt nulla nisi esse qui culpa. Ut cupidatat deserunt id commodo irure ex excepteur pariatur non incididunt.",
+    "category": "Technology",
+    "vacancies": 1,
+    "qualifications": [
+      "Understanding of Salesforce security and sharing rules.",
+      "Knowledge of web development technologies such as HTML, CSS, JavaScript, and jQuery.",
+      "Knowledge of Salesforce data modeling and data management best practices."
+    ],
+    "skillset": [
+      "Experience Cloud",
+      "Service Cloud",
+      "Apex"
+    ],
+    "salary": "120690 per month",
+    "employment_status": "Part Time"
+  },
+  {
+    "id": "5650e8b3-0018-40be-892e-e0babeaea155",
+    "title": "Developer",
+    "company": "Daycore",
+    "location": "Mississippi",
+    "jobdescription": "Nisi culpa quis quis et cillum do eiusmod Lorem adipisicing ad culpa fugiat sit. Pariatur exercitation dolore Lorem qui. Ea duis velit est ut qui enim do nulla.",
+    "category": "Technology",
+    "vacancies": 5,
+    "qualifications": [
+      "Proficiency with Salesforce development tools such as the Salesforce CLI, Salesforce DX, and the Force.com IDE.",
+      "Ability to create and manage custom Salesforce applications and packages.",
+      "Bachelor degree in computer science or a related field, or equivalent work experience."
+    ],
+    "skillset": [
+      "Javascript",
+      "Sales Cloud",
+      "Pardot",
+      "HTML"
+    ],
+    "salary": "107946 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "cb756dde-0f2f-4d1e-a4e0-2e1b68711f27",
+    "title": "LWC Developer",
+    "company": "Rodeomad",
+    "location": "South Carolina",
+    "jobdescription": "Laborum in in non voluptate ad aute laborum cillum eiusmod ad aute mollit magna. In velit tempor sint labore qui quis. Eiusmod excepteur commodo laboris culpa voluptate cupidatat esse.",
+    "category": "Technology",
+    "vacancies": 1,
+    "qualifications": [
+      "Knowledge of Salesforce data modeling and data management best practices.",
+      "Experience with Apex, Visualforce, and Lightning Components."
+    ],
+    "skillset": [
+      "Experience Cloud",
+      "Service Cloud",
+      "MuleSoft",
+      "LWC"
+    ],
+    "salary": "117108 per month",
+    "employment_status": "Part Time"
+  },
+  {
+    "id": "7550e9bf-138f-4637-a584-571f3ffa63fb",
+    "title": "LWC Developer",
+    "company": "Talkalot",
+    "location": "New Jersey",
+    "jobdescription": "Incididunt Lorem aliquip minim commodo eiusmod ullamco nostrud ea occaecat quis qui labore. Dolore dolor deserunt duis excepteur sit dolore tempor laborum esse quis fugiat in ut cillum. Magna dolor cupidatat laboris aliqua duis proident elit elit duis id.",
+    "category": "Technology",
+    "vacancies": 5,
+    "qualifications": [
+      "Salesforce Developer certifications, such as Salesforce Certified Platform Developer I and II, can also be a plus.",
+      "Knowledge of web development technologies such as HTML, CSS, JavaScript, and jQuery.",
+      "Excellent communication and teamwork skills."
+    ],
+    "skillset": [
+      "Sales Cloud",
+      "Experience Cloud",
+      "Service Cloud",
+      "HTML"
+    ],
+    "salary": "120223 per month",
+    "employment_status": "Full Time"
+  },
+  {
+    "id": "6c39f862-2508-4ab2-968f-d05261dbd830",
+    "title": "Salesforce Developer",
+    "company": "Lunchpad",
+    "location": "North Dakota",
+    "jobdescription": "Elit non velit nulla cupidatat amet ad ipsum culpa incididunt. Reprehenderit pariatur est id cillum proident aliqua mollit nulla id est anim incididunt dolore. Sint aute et et ea irure ea culpa adipisicing duis magna officia nulla minim mollit.",
+    "category": "Technology",
+    "vacancies": 1,
+    "qualifications": [
+      "Understanding of version control systems like Git.",
+      "Knowledge of web development technologies such as HTML, CSS, JavaScript, and jQuery."
+    ],
+    "skillset": [
+      "Apex",
+      "LWC",
+      "css",
+      "Sales Cloud"
+    ],
+    "salary": "100965 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "16b0c862-52ef-4a8a-8846-6f2a98f35fc2",
+    "title": "UX Designer",
+    "company": "Comvoy",
+    "location": "Pennsylvania",
+    "jobdescription": "Amet adipisicing sit fugiat officia amet cillum fugiat fugiat. Aliquip dolore officia esse qui mollit excepteur. Lorem aliquip anim aliqua elit pariatur tempor.",
+    "category": "Technology",
+    "vacancies": 4,
+    "qualifications": [
+      "Salesforce Developer certifications, such as Salesforce Certified Platform Developer I and II, can also be a plus.",
+      "Knowledge of web development technologies such as HTML, CSS, JavaScript, and jQuery.",
+      "Understanding of version control systems like Git."
+    ],
+    "skillset": [
+      "css",
+      "LWC",
+      "MuleSoft"
+    ],
+    "salary": "128102 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "e6b4599a-84e8-4205-9735-946a9795b7fc",
+    "title": "UX Designer",
+    "company": "Terascape",
+    "location": "North Carolina",
+    "jobdescription": "Eu sint cillum consequat veniam minim Lorem ad aute reprehenderit ea. Et qui consectetur pariatur quis velit cupidatat do sint in non cupidatat eiusmod. Laborum in incididunt cillum nulla officia officia.",
+    "category": "Technology",
+    "vacancies": 5,
+    "qualifications": [
+      "Salesforce Developer certifications, such as Salesforce Certified Platform Developer I and II, can also be a plus.",
+      "Strong problem-solving and analytical skills.",
+      "Ability to create and manage custom Salesforce applications and packages."
+    ],
+    "skillset": [
+      "HTML",
+      "Javascript",
+      "MuleSoft",
+      "Experience Cloud"
+    ],
+    "salary": "107411 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "b8583dd9-548b-43ed-8609-41d092808c50",
+    "title": "UX Designer",
+    "company": "Kangle",
+    "location": "New Hampshire",
+    "jobdescription": "Laborum occaecat sint occaecat pariatur. Excepteur aute officia veniam culpa sit non ex ullamco nostrud officia est do. Culpa esse consectetur consequat quis consequat eiusmod nisi pariatur exercitation deserunt commodo sit cupidatat.",
+    "category": "Technology",
+    "vacancies": 4,
+    "qualifications": [
+      "Knowledge of web development technologies such as HTML, CSS, JavaScript, and jQuery.",
+      "Knowledge of Salesforce data modeling and data management best practices."
+    ],
+    "skillset": [
+      "css",
+      "MuleSoft",
+      "Apex",
+      "HTML"
+    ],
+    "salary": "124395 per month",
+    "employment_status": "Part Time"
+  },
+  {
+    "id": "bea5c5b5-f4fd-4f88-a0d2-058f56f9d4f1",
+    "title": "LWC Developer",
+    "company": "Quonata",
+    "location": "Puerto Rico",
+    "jobdescription": "Et est est ipsum ut dolor laborum. Consequat eiusmod consequat ipsum ea sit eu deserunt qui laboris ut. Ipsum exercitation eu nulla labore pariatur dolore reprehenderit ullamco.",
+    "category": "Technology",
+    "vacancies": 1,
+    "qualifications": [
+      "Strong understanding of Salesforce architecture and design patterns.",
+      "Proficiency with Salesforce development tools such as the Salesforce CLI, Salesforce DX, and the Force.com IDE.",
+      "Understanding of version control systems like Git."
+    ],
+    "skillset": [
+      "Service Cloud",
+      "css",
+      "Javascript",
+      "Experience Cloud"
+    ],
+    "salary": "117252 per month",
+    "employment_status": "Full Time"
+  },
+  {
+    "id": "e55d26be-01fa-4530-8fbb-aa14ee38de06",
+    "title": "Salesforce Developer",
+    "company": "Comcubine",
+    "location": "Oklahoma",
+    "jobdescription": "Excepteur nostrud qui cupidatat cupidatat velit. In dolore tempor sit culpa cupidatat commodo amet ex consectetur commodo ullamco. Ad excepteur irure aliquip velit.",
+    "category": "Technology",
+    "vacancies": 3,
+    "qualifications": [
+      "Understanding of version control systems like Git.",
+      "Knowledge of web development technologies such as HTML, CSS, JavaScript, and jQuery.",
+      "Strong problem-solving and analytical skills."
+    ],
+    "skillset": [
+      "Sales Cloud",
+      "Pardot",
+      "css"
+    ],
+    "salary": "100591 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "e62b3e64-e4df-4bfc-af25-da9faeb0e411",
+    "title": "Software Engineer",
+    "company": "Turnling",
+    "location": "New Mexico",
+    "jobdescription": "Consequat nulla elit minim aliqua fugiat fugiat nisi anim. Aliquip eu velit anim quis. Esse veniam quis exercitation ea nulla exercitation.",
+    "category": "Technology",
+    "vacancies": 4,
+    "qualifications": [
+      "Experience with Apex, Visualforce, and Lightning Components.",
+      "Proficiency with Salesforce development tools such as the Salesforce CLI, Salesforce DX, and the Force.com IDE.",
+      "Strong understanding of Salesforce architecture and design patterns."
+    ],
+    "skillset": [
+      "css",
+      "MuleSoft",
+      "Experience Cloud"
+    ],
+    "salary": "125222 per month",
+    "employment_status": "Full Time"
+  },
+  {
+    "id": "a7936ab6-9d68-4c6d-910b-a12efcf9db8c",
+    "title": "LWC Developer",
+    "company": "Accidency",
+    "location": "District Of Columbia",
+    "jobdescription": "Ut ex cupidatat dolore nostrud labore minim ullamco. Lorem labore consequat excepteur excepteur non elit. Sunt duis Lorem Lorem deserunt.",
+    "category": "Technology",
+    "vacancies": 3,
+    "qualifications": [
+      "Strong problem-solving and analytical skills.",
+      "Ability to create and manage custom Salesforce applications and packages."
+    ],
+    "skillset": [
+      "Sales Cloud",
+      "Aura Component",
+      "CDC",
+      "Apex"
+    ],
+    "salary": "116508 per month",
+    "employment_status": "Full Time"
+  },
+  {
+    "id": "b402a85b-ecee-489f-9b5f-b6f291427f56",
+    "title": "Developer",
+    "company": "Matrixity",
+    "location": "Indiana",
+    "jobdescription": "Cupidatat velit sunt non fugiat exercitation. Incididunt quis non anim occaecat in laboris excepteur laboris eiusmod excepteur laboris velit officia aliqua. Voluptate commodo id culpa non dolor dolore veniam nostrud amet.",
+    "category": "Technology",
+    "vacancies": 2,
+    "qualifications": [
+      "Knowledge of web development technologies such as HTML, CSS, JavaScript, and jQuery.",
+      "Knowledge of Salesforce data modeling and data management best practices.",
+      "Experience with integrating Salesforce with other systems, such as ERP or marketing automation systems."
+    ],
+    "skillset": [
+      "CDC",
+      "Apex",
+      "Sales Cloud",
+      "MuleSoft"
+    ],
+    "salary": "128539 per month",
+    "employment_status": "Part Time"
+  },
+  {
+    "id": "db844966-ac4a-4ea2-9dbf-b2c822647b4f",
+    "title": "LWC Developer",
+    "company": "Techade",
+    "location": "Nebraska",
+    "jobdescription": "Aliqua mollit pariatur deserunt deserunt ipsum ea ipsum eiusmod. Velit amet incididunt est excepteur esse irure voluptate ullamco laborum irure. Amet adipisicing id laborum proident commodo cillum laboris aliquip voluptate adipisicing sint ea eu magna.",
+    "category": "Technology",
+    "vacancies": 3,
+    "qualifications": [
+      "Ability to create and manage custom Salesforce applications and packages.",
+      "Strong problem-solving and analytical skills.",
+      "Strong understanding of Salesforce architecture and design patterns."
+    ],
+    "skillset": [
+      "Experience Cloud",
+      "Visualforce",
+      "Pardot",
+      "Javascript"
+    ],
+    "salary": "119825 per month",
+    "employment_status": "Full Time"
+  },
+  {
+    "id": "1d2373e2-c73c-4cd8-89c7-2e54daa52227",
+    "title": "LWC Developer",
+    "company": "Dyno",
+    "location": "Hawaii",
+    "jobdescription": "Est anim dolor aliquip nostrud in ipsum nulla eu ad occaecat do. Nostrud ex nostrud amet ut nostrud nulla ipsum sunt excepteur exercitation cupidatat qui. Dolore excepteur aute qui anim.",
+    "category": "Technology",
+    "vacancies": 5,
+    "qualifications": [
+      "Knowledge of Salesforce data modeling and data management best practices.",
+      "Strong understanding of Salesforce architecture and design patterns.",
+      "Ability to create and manage custom Salesforce applications and packages."
+    ],
+    "skillset": [
+      "LWC",
+      "CDC",
+      "Visualforce"
+    ],
+    "salary": "111193 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "6cd0cb11-b4aa-4f81-a7bf-ac30d558de77",
+    "title": "Developer",
+    "company": "Repetwire",
+    "location": "Colorado",
+    "jobdescription": "Eiusmod deserunt sint nulla consectetur quis laboris commodo dolore. Amet deserunt est deserunt deserunt voluptate do ipsum ea eiusmod elit enim laboris est enim. Eiusmod quis consequat consequat deserunt voluptate in sit tempor eu quis officia est consectetur nulla.",
+    "category": "Technology",
+    "vacancies": 2,
+    "qualifications": [
+      "Excellent communication and teamwork skills.",
+      "Strong understanding of Salesforce architecture and design patterns."
+    ],
+    "skillset": [
+      "Experience Cloud",
+      "Sales Cloud",
+      "HTML"
+    ],
+    "salary": "128519 per month",
+    "employment_status": "Part Time"
+  },
+  {
+    "id": "67ddcb75-a0af-43db-925a-6259b5d474d7",
+    "title": "Software Engineer",
+    "company": "Dogspa",
+    "location": "Arkansas",
+    "jobdescription": "Aliquip laborum aliquip dolor laboris dolore duis ullamco enim. Magna cupidatat eu nulla sit. Ut magna irure tempor pariatur et exercitation pariatur.",
+    "category": "Technology",
+    "vacancies": 2,
+    "qualifications": [
+      "Strong problem-solving and analytical skills.",
+      "Bachelor degree in computer science or a related field, or equivalent work experience.",
+      "Ability to create and manage custom Salesforce applications and packages."
+    ],
+    "skillset": [
+      "CDC",
+      "Apex",
+      "Pardot",
+      "Experience Cloud"
+    ],
+    "salary": "128851 per month",
+    "employment_status": "Full Time"
+  },
+  {
+    "id": "b6cfc5b7-fcb5-4b14-8f4e-b087e6c8cb74",
+    "title": "Software Engineer",
+    "company": "Insuresys",
+    "location": "Iowa",
+    "jobdescription": "Irure incididunt ullamco nisi occaecat ullamco ea reprehenderit cupidatat enim et eiusmod ipsum minim. Minim duis sint sint ut aliqua nulla sunt ad. Deserunt irure sit ut minim ullamco et veniam fugiat id.",
+    "category": "Technology",
+    "vacancies": 1,
+    "qualifications": [
+      "Proficiency with Salesforce development tools such as the Salesforce CLI, Salesforce DX, and the Force.com IDE.",
+      "Knowledge of Salesforce data modeling and data management best practices.",
+      "Experience with integrating Salesforce with other systems, such as ERP or marketing automation systems."
+    ],
+    "skillset": [
+      "Aura Component",
+      "Experience Cloud",
+      "Service Cloud",
+      "CDC"
+    ],
+    "salary": "115487 per month",
+    "employment_status": "Part Time"
+  },
+  {
+    "id": "2852b74a-ccb5-42c0-aada-19a3af87d7ba",
+    "title": "Software Engineer",
+    "company": "Digifad",
+    "location": "Minnesota",
+    "jobdescription": "Id eu in pariatur ipsum commodo cillum non consectetur tempor proident. Enim est consectetur pariatur eiusmod. Eiusmod sint do qui nostrud ullamco deserunt ex exercitation sunt culpa.",
+    "category": "Technology",
+    "vacancies": 3,
+    "qualifications": [
+      "Strong understanding of Salesforce architecture and design patterns.",
+      "Understanding of version control systems like Git.",
+      "Knowledge of web development technologies such as HTML, CSS, JavaScript, and jQuery."
+    ],
+    "skillset": [
+      "Visualforce",
+      "LWC",
+      "Service Cloud",
+      "css"
+    ],
+    "salary": "109321 per month",
+    "employment_status": "Full Time"
+  },
+  {
+    "id": "9fd68ae4-9162-42ab-86fb-c65ad38c26e8",
+    "title": "LWC Developer",
+    "company": "Gluid",
+    "location": "Rhode Island",
+    "jobdescription": "Do culpa non excepteur est veniam adipisicing magna non incididunt minim laboris ut ad. Excepteur veniam et qui veniam eu sunt. Ullamco in et reprehenderit proident esse officia aliquip sint consequat voluptate aute.",
+    "category": "Technology",
+    "vacancies": 5,
+    "qualifications": [
+      "Knowledge of web development technologies such as HTML, CSS, JavaScript, and jQuery.",
+      "Proficiency with Salesforce development tools such as the Salesforce CLI, Salesforce DX, and the Force.com IDE.",
+      "Strong problem-solving and analytical skills."
+    ],
+    "skillset": [
+      "LWC",
+      "Sales Cloud",
+      "Visualforce"
+    ],
+    "salary": "115700 per month",
+    "employment_status": "Part Time"
+  },
+  {
+    "id": "c9e71df0-6d62-41b4-a72f-e584367f117a",
+    "title": "UX Designer",
+    "company": "Manufact",
+    "location": "Marshall Islands",
+    "jobdescription": "Dolore non occaecat exercitation officia eiusmod do eu. Ipsum proident et id incididunt amet irure. In anim laborum amet do qui nostrud tempor velit voluptate elit reprehenderit.",
+    "category": "Technology",
+    "vacancies": 3,
+    "qualifications": [
+      "Strong understanding of Salesforce architecture and design patterns.",
+      "Understanding of Salesforce security and sharing rules.",
+      "Knowledge of Salesforce data modeling and data management best practices."
+    ],
+    "skillset": [
+      "Apex",
+      "Experience Cloud",
+      "MuleSoft"
+    ],
+    "salary": "125598 per month",
+    "employment_status": "Part Time"
+  },
+  {
+    "id": "87d1eaa5-7d11-45f4-887f-e44b1030a073",
+    "title": "Developer",
+    "company": "Talkola",
+    "location": "American Samoa",
+    "jobdescription": "Sint nostrud dolore sit aliquip deserunt commodo nisi officia consequat ad consequat est consectetur. Duis consequat proident voluptate laborum sit eiusmod tempor enim. Aliqua eiusmod eiusmod ullamco nostrud dolor voluptate mollit reprehenderit qui sint.",
+    "category": "Technology",
+    "vacancies": 5,
+    "qualifications": [
+      "Ability to create and manage custom Salesforce applications and packages.",
+      "Salesforce Developer certifications, such as Salesforce Certified Platform Developer I and II, can also be a plus.",
+      "Strong problem-solving and analytical skills."
+    ],
+    "skillset": [
+      "LWC",
+      "Service Cloud",
+      "Experience Cloud",
+      "Sales Cloud"
+    ],
+    "salary": "122594 per month",
+    "employment_status": "Part Time"
+  },
+  {
+    "id": "3b61f35e-3c88-4727-874f-9ef847cbed98",
+    "title": "LWC Developer",
+    "company": "Telpod",
+    "location": "Idaho",
+    "jobdescription": "Officia Lorem mollit aliqua non deserunt non adipisicing in ea elit nulla. Excepteur magna occaecat velit ea. Labore officia ad culpa consectetur laborum dolor in magna officia.",
+    "category": "Technology",
+    "vacancies": 1,
+    "qualifications": [
+      "Strong understanding of Salesforce architecture and design patterns.",
+      "Bachelor degree in computer science or a related field, or equivalent work experience.",
+      "Understanding of version control systems like Git."
+    ],
+    "skillset": [
+      "Visualforce",
+      "CDC",
+      "MuleSoft"
+    ],
+    "salary": "103021 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "82f3a57d-1caf-4e8f-bdb1-8dd2f6cde99f",
+    "title": "UX Designer",
+    "company": "Slofast",
+    "location": "Louisiana",
+    "jobdescription": "Duis id nostrud excepteur ex velit enim eiusmod sit ea occaecat consectetur ipsum occaecat. Est est veniam dolor et cillum eiusmod anim commodo ut deserunt Lorem cillum sit deserunt. Esse tempor ad mollit amet in culpa id ipsum sint esse fugiat deserunt sint.",
+    "category": "Technology",
+    "vacancies": 3,
+    "qualifications": [
+      "Experience with integrating Salesforce with other systems, such as ERP or marketing automation systems.",
+      "Strong understanding of Salesforce architecture and design patterns.",
+      "Experience with Apex, Visualforce, and Lightning Components."
+    ],
+    "skillset": [
+      "LWC",
+      "Service Cloud",
+      "Experience Cloud"
+    ],
+    "salary": "103239 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "0a8e2f1b-5ec5-4841-95f7-f3956453a0e5",
+    "title": "LWC Developer",
+    "company": "Gorganic",
+    "location": "Kansas",
+    "jobdescription": "Sunt aute et voluptate labore. Mollit dolor minim minim amet sunt aute ut elit sunt nisi consequat mollit irure et. Duis aute labore sit dolor.",
+    "category": "Technology",
+    "vacancies": 3,
+    "qualifications": [
+      "Understanding of Salesforce security and sharing rules.",
+      "Experience with Apex, Visualforce, and Lightning Components.",
+      "Excellent communication and teamwork skills."
+    ],
+    "skillset": [
+      "LWC",
+      "CDC",
+      "Apex",
+      "MuleSoft"
+    ],
+    "salary": "106496 per month",
+    "employment_status": "Part Time"
+  },
+  {
+    "id": "7f2e677d-bb88-4d43-9cfa-2a1eb838545f",
+    "title": "Software Engineer",
+    "company": "Exostream",
+    "location": "Nevada",
+    "jobdescription": "Eu nostrud ut consequat occaecat laboris amet adipisicing voluptate. Ex aliquip exercitation consequat ullamco nisi. Lorem quis occaecat anim quis laborum voluptate non et minim do exercitation aliquip minim velit.",
+    "category": "Technology",
+    "vacancies": 4,
+    "qualifications": [
+      "Strong understanding of Salesforce architecture and design patterns.",
+      "Strong problem-solving and analytical skills."
+    ],
+    "skillset": [
+      "LWC",
+      "CDC",
+      "Service Cloud"
+    ],
+    "salary": "114477 per month",
+    "employment_status": "Part Time"
+  },
+  {
+    "id": "dfa67396-cea8-49b6-95a6-23adb51cb5c2",
+    "title": "Salesforce Developer",
+    "company": "Otherway",
+    "location": "Oregon",
+    "jobdescription": "Irure ut nulla irure amet esse enim cupidatat qui laborum proident consequat consectetur proident. Dolore est excepteur laboris reprehenderit. Eu duis nostrud sunt tempor ut do aliquip Lorem.",
+    "category": "Technology",
+    "vacancies": 3,
+    "qualifications": [
+      "Understanding of version control systems like Git.",
+      "Experience with integrating Salesforce with other systems, such as ERP or marketing automation systems.",
+      "Strong understanding of Salesforce architecture and design patterns."
+    ],
+    "skillset": [
+      "LWC",
+      "CDC",
+      "Sales Cloud",
+      "css"
+    ],
+    "salary": "118711 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "f8fc8abc-8e75-4dd4-add7-1e7c1f566403",
+    "title": "LWC Developer",
+    "company": "Delphide",
+    "location": "Utah",
+    "jobdescription": "Consectetur dolor eu velit labore minim amet non deserunt aliqua est reprehenderit consectetur pariatur. Qui minim eiusmod fugiat amet in reprehenderit aute proident sit culpa. Anim officia do deserunt ut tempor occaecat consequat quis et nostrud officia nostrud aliqua ad.",
+    "category": "Technology",
+    "vacancies": 1,
+    "qualifications": [
+      "Bachelor degree in computer science or a related field, or equivalent work experience.",
+      "Understanding of version control systems like Git.",
+      "Salesforce Developer certifications, such as Salesforce Certified Platform Developer I and II, can also be a plus."
+    ],
+    "skillset": [
+      "MuleSoft",
+      "CDC",
+      "Visualforce"
+    ],
+    "salary": "123683 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "c9e109c0-4da7-4511-96e0-b7f6104bbf20",
+    "title": "UX Designer",
+    "company": "Zoarere",
+    "location": "Kentucky",
+    "jobdescription": "Velit eiusmod ullamco sint magna id aliqua mollit officia pariatur ea ex aliquip duis commodo. Dolor magna veniam cillum in duis in pariatur nisi laborum tempor. Anim duis anim eu esse aliqua sit consectetur.",
+    "category": "Technology",
+    "vacancies": 4,
+    "qualifications": [
+      "Experience with Apex, Visualforce, and Lightning Components.",
+      "Excellent communication and teamwork skills."
+    ],
+    "skillset": [
+      "Pardot",
+      "Javascript",
+      "Sales Cloud"
+    ],
+    "salary": "111838 per month",
+    "employment_status": "Full Time"
+  },
+  {
+    "id": "4e98e7af-4879-4325-a69b-a262ed158a36",
+    "title": "UX Designer",
+    "company": "Waretel",
+    "location": "Connecticut",
+    "jobdescription": "Exercitation eu irure aliqua sit. Laboris sint dolore sit irure et est. Pariatur elit magna exercitation laborum Lorem do.",
+    "category": "Technology",
+    "vacancies": 2,
+    "qualifications": [
+      "Knowledge of web development technologies such as HTML, CSS, JavaScript, and jQuery.",
+      "Proficiency with Salesforce development tools such as the Salesforce CLI, Salesforce DX, and the Force.com IDE.",
+      "Strong problem-solving and analytical skills."
+    ],
+    "skillset": [
+      "MuleSoft",
+      "HTML",
+      "Javascript",
+      "LWC"
+    ],
+    "salary": "105639 per month",
+    "employment_status": "Full Time"
+  },
+  {
+    "id": "3b8bea7d-de77-4a9f-9f8f-57959b722d16",
+    "title": "LWC Developer",
+    "company": "Geofarm",
+    "location": "Federated States Of Micronesia",
+    "jobdescription": "Enim non cupidatat nostrud cillum ad nisi incididunt. Officia Lorem magna nisi ut quis ad dolore tempor veniam est exercitation. Exercitation amet dolore pariatur anim dolor.",
+    "category": "Technology",
+    "vacancies": 3,
+    "qualifications": [
+      "Understanding of version control systems like Git.",
+      "Ability to create and manage custom Salesforce applications and packages.",
+      "Strong understanding of Salesforce architecture and design patterns."
+    ],
+    "skillset": [
+      "css",
+      "Apex",
+      "Visualforce",
+      "Service Cloud"
+    ],
+    "salary": "112649 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "5cd78d97-d29e-4366-b8f8-790b79550a64",
+    "title": "Salesforce Developer",
+    "company": "Keengen",
+    "location": "Maryland",
+    "jobdescription": "Do culpa reprehenderit sunt Lorem reprehenderit nisi sit pariatur. Pariatur ea deserunt labore occaecat incididunt reprehenderit in voluptate nisi ullamco est. Dolor ea consectetur deserunt Lorem deserunt magna culpa enim nulla veniam enim qui excepteur.",
+    "category": "Technology",
+    "vacancies": 4,
+    "qualifications": [
+      "Bachelor degree in computer science or a related field, or equivalent work experience.",
+      "Knowledge of web development technologies such as HTML, CSS, JavaScript, and jQuery.",
+      "Understanding of Salesforce security and sharing rules."
+    ],
+    "skillset": [
+      "css",
+      "Apex",
+      "LWC",
+      "Javascript"
+    ],
+    "salary": "115943 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "6406c286-a88e-4207-9919-1a6a2c073247",
+    "title": "UX Designer",
+    "company": "Shopabout",
+    "location": "Illinois",
+    "jobdescription": "Veniam laborum ut non laborum reprehenderit sunt amet deserunt consequat do laborum laborum labore. Veniam cillum tempor nulla in magna exercitation. Labore qui nisi veniam mollit officia ex fugiat non mollit quis.",
+    "category": "Technology",
+    "vacancies": 4,
+    "qualifications": [
+      "Strong problem-solving and analytical skills.",
+      "Experience with integrating Salesforce with other systems, such as ERP or marketing automation systems."
+    ],
+    "skillset": [
+      "Visualforce",
+      "MuleSoft",
+      "Sales Cloud",
+      "Service Cloud"
+    ],
+    "salary": "102251 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "81266550-ecea-4948-996f-f3ff4ccd7ab4",
+    "title": "Software Engineer",
+    "company": "Quarmony",
+    "location": "Maine",
+    "jobdescription": "Et esse adipisicing tempor aliquip consectetur occaecat sit magna ipsum nostrud dolor nisi. Nulla nisi excepteur dolore fugiat aliqua esse in tempor non deserunt anim est qui. Adipisicing dolore laboris amet quis magna duis dolor ut.",
+    "category": "Technology",
+    "vacancies": 3,
+    "qualifications": [
+      "Understanding of version control systems like Git.",
+      "Experience with integrating Salesforce with other systems, such as ERP or marketing automation systems.",
+      "Knowledge of web development technologies such as HTML, CSS, JavaScript, and jQuery."
+    ],
+    "skillset": [
+      "Aura Component",
+      "MuleSoft",
+      "HTML",
+      "Apex"
+    ],
+    "salary": "107349 per month",
+    "employment_status": "Full Time"
+  },
+  {
+    "id": "5aed0da7-8c94-4669-b1d2-a453027a7bea",
+    "title": "UX Designer",
+    "company": "Bittor",
+    "location": "New York",
+    "jobdescription": "Proident qui aliquip Lorem sit enim. Sit aliqua sunt adipisicing ea nisi ea nulla consectetur exercitation anim sunt eu. Ex non labore proident deserunt cupidatat ullamco mollit proident cillum velit.",
+    "category": "Technology",
+    "vacancies": 3,
+    "qualifications": [
+      "Strong problem-solving and analytical skills.",
+      "Understanding of Salesforce security and sharing rules."
+    ],
+    "skillset": [
+      "Apex",
+      "Pardot",
+      "Visualforce",
+      "Service Cloud"
+    ],
+    "salary": "123360 per month",
+    "employment_status": "Part Time"
+  },
+  {
+    "id": "cc151a9a-4b96-4c68-b87e-dbdbc7d57583",
+    "title": "Developer",
+    "company": "Ewaves",
+    "location": "Vermont",
+    "jobdescription": "Anim duis et qui ipsum. Magna in in nostrud est pariatur qui. Lorem do esse anim elit dolor qui consequat aliqua officia ad ea reprehenderit.",
+    "category": "Technology",
+    "vacancies": 1,
+    "qualifications": [
+      "Strong problem-solving and analytical skills.",
+      "Knowledge of Salesforce data modeling and data management best practices.",
+      "Excellent communication and teamwork skills."
+    ],
+    "skillset": [
+      "Experience Cloud",
+      "Apex",
+      "HTML",
+      "Javascript"
+    ],
+    "salary": "114953 per month",
+    "employment_status": "Part Time"
+  },
+  {
+    "id": "8debb08a-43b5-483a-ad4a-256bc3b80a40",
+    "title": "Salesforce Developer",
+    "company": "Cogentry",
+    "location": "South Dakota",
+    "jobdescription": "Quis cillum aute Lorem ad dolor anim veniam qui ut. Minim consectetur occaecat ad laborum quis Lorem cillum eu consectetur. Non nisi et elit ut aliquip proident pariatur ad duis sit sint anim Lorem ad.",
+    "category": "Technology",
+    "vacancies": 1,
+    "qualifications": [
+      "Strong understanding of Salesforce architecture and design patterns.",
+      "Bachelor degree in computer science or a related field, or equivalent work experience.",
+      "Proficiency with Salesforce development tools such as the Salesforce CLI, Salesforce DX, and the Force.com IDE."
+    ],
+    "skillset": [
+      "Sales Cloud",
+      "CDC",
+      "Apex"
+    ],
+    "salary": "110957 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "0a74f090-2a08-43bf-bdcf-8f80cfbd3ae5",
+    "title": "LWC Developer",
+    "company": "Netagy",
+    "location": "Northern Mariana Islands",
+    "jobdescription": "Lorem velit dolore eu id occaecat officia consectetur velit ea aliqua cillum veniam consectetur in. Tempor voluptate aute exercitation voluptate minim labore dolore proident consectetur tempor est in et. Nostrud sit laborum voluptate deserunt amet consectetur.",
+    "category": "Technology",
+    "vacancies": 5,
+    "qualifications": [
+      "Bachelor degree in computer science or a related field, or equivalent work experience.",
+      "Knowledge of web development technologies such as HTML, CSS, JavaScript, and jQuery.",
+      "Strong understanding of Salesforce architecture and design patterns."
+    ],
+    "skillset": [
+      "Sales Cloud",
+      "Javascript",
+      "Service Cloud",
+      "Visualforce"
+    ],
+    "salary": "105595 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "21208cc7-ca40-486f-b81e-ee62afbadc14",
+    "title": "LWC Developer",
+    "company": "Quiltigen",
+    "location": "Palau",
+    "jobdescription": "Non irure laboris magna voluptate culpa tempor mollit. Enim exercitation mollit nulla exercitation commodo incididunt eiusmod nisi duis qui nostrud. In velit veniam incididunt sit elit minim ad tempor minim voluptate aliquip.",
+    "category": "Technology",
+    "vacancies": 2,
+    "qualifications": [
+      "Knowledge of Salesforce data modeling and data management best practices.",
+      "Understanding of version control systems like Git.",
+      "Excellent communication and teamwork skills."
+    ],
+    "skillset": [
+      "Aura Component",
+      "MuleSoft",
+      "Javascript"
+    ],
+    "salary": "126626 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "9d19717f-f0fb-498a-96f9-ae491a126ece",
+    "title": "Software Engineer",
+    "company": "Earthplex",
+    "location": "Ohio",
+    "jobdescription": "Incididunt labore cupidatat exercitation minim do sunt minim nisi occaecat aute proident do est irure. Consectetur amet fugiat ipsum commodo amet pariatur in occaecat enim eu enim elit esse exercitation. Dolore officia ad eu ullamco aliqua voluptate aute eiusmod eu exercitation qui aute incididunt veniam.",
+    "category": "Technology",
+    "vacancies": 3,
+    "qualifications": [
+      "Understanding of Salesforce security and sharing rules.",
+      "Excellent communication and teamwork skills.",
+      "Strong problem-solving and analytical skills."
+    ],
+    "skillset": [
+      "HTML",
+      "Service Cloud",
+      "Visualforce"
+    ],
+    "salary": "118457 per month",
+    "employment_status": "Contractual"
+  },
+  {
+    "id": "e5683942-b401-4b18-ab40-6978c8b7359f",
+    "title": "Software Engineer",
+    "company": "Twiist",
+    "location": "Wyoming",
+    "jobdescription": "Velit minim deserunt veniam et aliqua. Ipsum anim fugiat excepteur anim exercitation. Nisi quis anim ut ullamco anim quis do adipisicing excepteur sit.",
+    "category": "Technology",
+    "vacancies": 3,
+    "qualifications": [
+      "Understanding of version control systems like Git.",
+      "Strong understanding of Salesforce architecture and design patterns.",
+      "Understanding of Salesforce security and sharing rules."
+    ],
+    "skillset": [
+      "Apex",
+      "Visualforce",
+      "HTML",
+      "Pardot"
+    ],
+    "salary": "105587 per month",
+    "employment_status": "Full Time"
+  },
+  {
+    "id": "55c355c4-d3dc-44de-bef1-c15c72e30fc3",
+    "title": "Software Engineer",
+    "company": "Solgan",
+    "location": "California",
+    "jobdescription": "Deserunt cupidatat excepteur velit ullamco dolor nulla incididunt tempor magna cillum laborum magna. Labore nisi dolore sint nostrud duis nostrud aliquip est velit id aliqua ad amet. Exercitation velit deserunt eiusmod sunt.",
+    "category": "Technology",
+    "vacancies": 3,
+    "qualifications": [
+      "Understanding of version control systems like Git.",
+      "Knowledge of Salesforce data modeling and data management best practices.",
+      "Ability to create and manage custom Salesforce applications and packages."
+    ],
+    "skillset": [
+      "Experience Cloud",
+      "Service Cloud",
+      "MuleSoft"
+    ],
+    "salary": "121153 per month",
+    "employment_status": "Part Time"
+  },
+  {
+    "id": "f5c14b27-7d88-40fe-8e0a-55c9fa84219f",
+    "title": "Software Engineer",
+    "company": "Hinway",
+    "location": "Tennessee",
+    "jobdescription": "Est ullamco aliqua dolor aliqua voluptate veniam occaecat. Officia laborum aliqua sint nisi magna ut ullamco aliqua. Reprehenderit proident ad ea quis aliquip magna.",
+    "category": "Technology",
+    "vacancies": 3,
+    "qualifications": [
+      "Knowledge of Salesforce data modeling and data management best practices.",
+      "Strong understanding of Salesforce architecture and design patterns.",
+      "Understanding of Salesforce security and sharing rules."
+    ],
+    "skillset": [
+      "Javascript",
+      "Aura Component",
+      "Visualforce"
+    ],
+    "salary": "114067 per month",
+    "employment_status": "Part Time"
+  },
+  {
+    "id": "73f3c6fa-174d-48dd-a3df-b8c33348b602",
+    "title": "LWC Developer",
+    "company": "Nurali",
+    "location": "Virginia",
+    "jobdescription": "Fugiat consequat id nulla minim proident nostrud est est excepteur voluptate minim. Mollit reprehenderit laborum minim ea occaecat ut irure consectetur cupidatat veniam duis in laborum. Pariatur adipisicing esse laborum cupidatat et culpa excepteur excepteur excepteur ex nulla.",
+    "category": "Technology",
+    "vacancies": 3,
+    "qualifications": [
+      "Bachelor degree in computer science or a related field, or equivalent work experience.",
+      "Experience with Apex, Visualforce, and Lightning Components.",
+      "Understanding of Salesforce security and sharing rules."
+    ],
+    "skillset": [
+      "LWC",
+      "Visualforce",
+      "Pardot"
+    ],
+    "salary": "103424 per month",
+    "employment_status": "Part Time"
+  }
+]
